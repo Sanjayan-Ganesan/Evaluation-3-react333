@@ -19,7 +19,7 @@ const Navbar = () => {
     <div data-cy="navbar">
       <div>
         <Link data-cy="navbar-home-link" to="/" className="link_logo">
-          LOGO
+          MYLOGO
         </Link>
       </div>
       <div>
